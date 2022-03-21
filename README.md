@@ -1,3 +1,11 @@
+# Next steps
+    Next steps i would've taken:
+1. Display the list of repositories;
+2. Create a bookmarks page
+3. Use local storage to save bookmarked repos.
+4. Clean up and move away some of the css.
+
+
 # Ennismore GitHub Challenge
 
 This repository contains a boostrapped Next.js project that generally follows the structure we use in production applications.
